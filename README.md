@@ -36,7 +36,7 @@ Across seven progressive modules, this portfolio establishes actionable defensiv
 * **Artifact:** Stateful set-intersection correlation engine parsing real-time **JSON Lines (`.jsonl`)** log streams to bundle low-level warnings into high-severity incident tickets.
 
 ### 🔹 Module 07: AI Incident Response & Digital Forensics (DFIR) Pipeline
-* **Focus:** Complete programmatic execution of a multi-turn, cross-component breach lifecycle following **NIST SP 800-61 r2** boundaries.
+* **Focus:** Complete programmatic execution of a multi-turn, cross-component breach lifecycle following **NIST SP 800-61 Rev. 3** boundaries.
 * **Artifact:** Automated triage pipeline enforcing read-only evidence file-system locks, computing digital chains of custody, generating post-remediation validation pen-tests, and exporting an audit-ready Post-Incident Review (PIR) report.
 
 ---
